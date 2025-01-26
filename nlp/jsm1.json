@@ -1,0 +1,3294 @@
+[
+  {
+    "text": "क्या Narendra Modi की Degree Fake है? Arvind Kejriwal ने अपनी Press Conference में किया खुलासा | AAP",
+    "id": 61,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "क्या",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 13,
+        "text": "Narendra",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 21,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "text": "Degree",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "Fake",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "text": "?",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "text": "Arvind",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "अपनी ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "Press ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "text": "Conference ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "खुलासा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "text": "AAP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-01-23T15:38:52.548063Z",
+    "updated_at": "2025-01-23T15:59:42.259238Z",
+    "lead_time": 451.10600000000005
+  },
+  {
+    "text": "Degree पूछने पर Arvind Kejriwal पर लगा Fine, Sanjay Singh ने अनपढ़ PM Modi की पोल खोली!",
+    "id": 62,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Degree ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "पूछने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "Arvind ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "text": "Kejriwal ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "लगा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "Fine",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "text": "Sanjay ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "text": "Singh ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "text": "अनपढ़ ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "text": "PM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 74,
+        "text": "Modi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 77,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 81,
+        "text": "पोल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "खोली",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "!",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-01-23T15:43:53.349373Z",
+    "updated_at": "2025-01-23T15:57:08.808885Z",
+    "lead_time": 396.932
+  },
+  {
+    "text": "Delhi में बढ़ते Covid Cases पर CM Arvind Kejriwal ने क्या कहा? #corona #delhi #kejriwal #shorts",
+    "id": 63,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "text": "delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 87,
+        "text": "kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "text": "corona ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "Covid ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "Cases ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "बढ़ते ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "क्या ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "? ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "कहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-01-23T15:55:19.957431Z",
+    "updated_at": "2025-01-24T17:53:06.055739Z",
+    "lead_time": 370.601
+  },
+  {
+    "text": "Delhi Corona Update : CM Arvind Kejriwal on Current Situation in Delhi | Aam Aadmi Party",
+    "id": 64,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "text": "Party",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 83,
+        "text": "Aadmi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77,
+        "text": "Aam ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "Corona ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": ": ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "on ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "text": "Current ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 62,
+        "text": "Situation ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "in ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "text": "Update ",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-01-23T16:03:29.216082Z",
+    "updated_at": "2025-01-23T16:03:29.216082Z",
+    "lead_time": 217.602
+  },
+  {
+    "text": "Satyendar Jain की Bail पर Amit Shah को Kejriwal का करारा जवाब #arvindkejriwal #amitshah #aap #shorts",
+    "id": 65,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "Satyendar ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "Jain ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "Shah ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "Amit ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 78,
+        "text": "arvindkejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "text": "amitshah ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "जवाब ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "text": "करारा ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "Bail ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "aap ",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-01-23T16:58:36.783146Z",
+    "updated_at": "2025-01-24T17:54:15.400458Z",
+    "lead_time": 3355.545
+  },
+  {
+    "text": "BJP नेता ने बताया, \"Modi जी Adani की इतनी मदद क्यों करते हैं?\" | #arvindkejriwal #adani #shorts",
+    "id": 66,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "BJP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "Modi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "Adani ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 81,
+        "text": "arvindkejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 88,
+        "text": "adani ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "\" ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": "?",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "मदद ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 95,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "text": "नेता ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "बताया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "क्यों ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "करते ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "text": "इतनी ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "जी ",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-01-23T17:07:40.340909Z",
+    "updated_at": "2025-01-23T17:07:40.340909Z",
+    "lead_time": 537.678
+  },
+  {
+    "text": "Arvind Kejriwal ने LG Vinai Kumar Saxena से क्यों कहा, \"टांग अड़ाना बंद कर दो\"? #savage #shorts",
+    "id": 67,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 16,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "LG ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "text": "Vinai ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "text": "Kumar ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "Saxena ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "text": "? ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "text": "\"",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "text": "क्यों ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 87,
+        "text": "savage ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "text": "टांग ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "text": "अड़ाना ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "text": "बंद ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "text": "कर ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 76,
+        "text": "दो",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "कहा",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-23T17:11:56.522960Z",
+    "updated_at": "2025-01-23T17:11:56.522960Z",
+    "lead_time": 249.423
+  },
+  {
+    "text": "भारत के इतिहास का सबसे भ्रष्ट और अनपढ़ प्रधानमंत्री हैं Modi, Vidhan Sabha में गरजे Kejriwal #shorts",
+    "id": 68,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "भारत ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 59,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "text": "Vidhan ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "text": "Sabha ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 92,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "text": "इतिहास ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "सबसे ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "text": "भ्रष्ट ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 33,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "text": "अनपढ़ ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 51,
+        "text": "प्रधानमंत्री ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "हैं ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "गरजे ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-23T17:34:59.098393Z",
+    "updated_at": "2025-01-23T17:34:59.098393Z",
+    "lead_time": 177.486
+  },
+  {
+    "text": "#MadhyaPradesh में बदहाली में अस्पताल और 100 Crore का आलीशान BJP दफ्तर | #gwalior #bjp #shorts",
+    "id": 69,
+    "pos_tag": [
+      {
+        "start": 83,
+        "end": 87,
+        "text": "bjp ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 82,
+        "text": "gwalior ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "text": "BJP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "100 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "text": "अस्पताल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "text": "Crore ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "text": "बदहाली ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "आलीशान ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "दफ्तर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 1,
+        "end": 15,
+        "text": "MadhyaPradesh ",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-23T17:37:37.819966Z",
+    "updated_at": "2025-01-24T17:56:03.011701Z",
+    "lead_time": 242.584
+  },
+  {
+    "text": "Punjab में Bhagwant Mann के Action से दुम दबाकर भागे Amritpal Singh पर बोले Kejriwal #punjab #shorts",
+    "id": 70,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Punjab ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "text": "Bhagwant ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "Mann ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 85,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 93,
+        "text": "punjab ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "text": "Amritpal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "Singh ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "Action ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "text": "बोले ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "दुम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "दबाकर ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 53,
+        "text": "भागे ",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-23T17:53:21.726169Z",
+    "updated_at": "2025-01-23T17:53:21.726169Z",
+    "lead_time": 162.651
+  },
+  {
+    "text": "#GuruRavidas Bani Research Centre के लिए Foundation Laying Ceremony में #ArvindKejrwal | #shorts",
+    "id": 71,
+    "pos_tag": [
+      {
+        "start": 1,
+        "end": 13,
+        "text": "GuruRavidas ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "Bani ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 87,
+        "text": "ArvindKejrwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "text": "Research ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "text": "Centre ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 37,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "text": "Foundation ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "Laying ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 68,
+        "text": "Ceremony ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-24T08:43:23.187173Z",
+    "updated_at": "2025-01-24T18:21:36.089468Z",
+    "lead_time": 338.02
+  },
+  {
+    "text": "Shri Guru Ravidas Bani Research Centre के लिए Arvind Kejriwal और CM Bhagwant Mann ने दिए ₹25 करोड़",
+    "id": 72,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Shri ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "text": "Guru ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "text": "Ravidas ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": "Bani ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "text": "Research ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "Centre ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 62,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 68,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 77,
+        "text": "Bhagwant ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 82,
+        "text": "Mann ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "25 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "text": "करोड़",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "text": "₹",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "text": "दिए ",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-24T08:46:14.225910Z",
+    "updated_at": "2025-01-24T08:46:14.225910Z",
+    "lead_time": 169.045
+  },
+  {
+    "text": "देश के इतिहास के सबसे भ्रष्ट और कम पढ़े-लिखे PM हैं Modi, Vidhan Sabha में कर्जे Kejriwal #shorts",
+    "id": 73,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "देश ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "text": "इतिहास ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": "सबसे ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "भ्रष्ट ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "कम ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "लिखे ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "पढ़े",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 89,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "PM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": "Vidhan ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "text": "Sabha ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "हैं ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 80,
+        "text": "कर्जे ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-24T08:50:17.756257Z",
+    "updated_at": "2025-01-24T18:24:10.164334Z",
+    "lead_time": 338.398
+  },
+  {
+    "text": "CM Arvind Kejriwal और CM Bhagwant Mann ने शुरू किया Shri Guru Ravidass Bani Centre | AAP Punjab",
+    "id": 74,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 10,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "text": "Bhagwant ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "Mann ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "Shri ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "Guru ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "text": "Ravidass ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "text": "Bani ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "text": "AAP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 95,
+        "text": "Punjab",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "Centre ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "शुरू ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "text": "किया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 85,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-24T08:52:00.987566Z",
+    "updated_at": "2025-01-24T18:26:44.523134Z",
+    "lead_time": 114.318
+  },
+  {
+    "text": "Rahul Gandhi की Lok sabha सदस्यता रद्द होने पर क्या बोले Arvind Kejriwal #modi #shorts",
+    "id": 75,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Rahul ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "text": "Gandhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "text": "Lok ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "text": "sabha ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 73,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 64,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "text": "modi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "text": "सदस्यता ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "text": "रद्द ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "होने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "text": "क्या ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "बोले ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 86,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-24T08:54:01.207289Z",
+    "updated_at": "2025-01-24T18:27:19.613623Z",
+    "lead_time": 147.329
+  },
+  {
+    "text": "Delhi Legislative Assembly में CM Arvind Kejriwal की Fiery Speech 🔥| PM Modi | LG Vinai Saxena",
+    "id": 76,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "PM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "text": "Modi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "LG ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 88,
+        "text": "Vinai ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "text": "Saxena",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": " 🔥",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 18,
+        "text": "Legislative ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "text": "Assembly ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "text": "Fiery ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "Speech ",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-24T08:55:40.766430Z",
+    "updated_at": "2025-01-24T18:28:20.158418Z",
+    "lead_time": 148.283
+  },
+  {
+    "text": "BREAKING NEWS: Rahul Gandhi को बड़ा झटका, संसद की सदस्यता रद्द | Saurabh Bharadwaj का BJP पर वार",
+    "id": 77,
+    "pos_tag": [
+      {
+        "start": 15,
+        "end": 21,
+        "text": "Rahul ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "text": "Gandhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "text": "Saurabh ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "text": "Bharadwaj ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "text": "BJP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": ": ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 9,
+        "text": "BREAKING ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "text": "NEWS",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "बड़ा ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "झटका",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "संसद ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 58,
+        "text": "सदस्यता ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "रद्द ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "text": "वार",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-24T09:00:58.321258Z",
+    "updated_at": "2025-01-24T18:28:54.422487Z",
+    "lead_time": 346.738
+  },
+  {
+    "text": "LIVE | Delhi CM Arvind Kejriwal & Punjab CM Bhagwant Mann at Jantar Mantar | #ModiHataoDeshBachao",
+    "id": 78,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "LIVE ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 7,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "text": "& ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "text": "Punjab ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "text": "Bhagwant ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 58,
+        "text": "Mann ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "text": "Jantar ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "text": "Mantar ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 77,
+        "text": "| ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "at ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 82,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "Hatao",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "Desh",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 97,
+        "text": "Bachao",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-24T09:05:49.464651Z",
+    "updated_at": "2025-01-24T18:29:48.951527Z",
+    "lead_time": 455.929
+  },
+  {
+    "text": "केजरीवाल के खिलाफ पोस्टर लगाने वालों को क्या बोले CM Arvind Kejriwal ? Modi Vs Kejriwal",
+    "id": 79,
+    "pos_tag": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "केजरीवाल ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "CM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "text": "Modi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 87,
+        "text": "Kejriwal",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "खिलाफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "text": "पोस्टर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "लगाने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "वालों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "? ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "Vs ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "क्या ",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "बोले ",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-24T09:08:09.369393Z",
+    "updated_at": "2025-01-24T09:08:09.369393Z",
+    "lead_time": 136.223
+  },
+  {
+    "text": "Savage Arvind Kejriwal 🤣🔥🔥 BJP Roasted on Delhi Budget Question #arvindkejriwal #bjp #shorts",
+    "id": 80,
+    "pos_tag": [
+      {
+        "start": 27,
+        "end": 31,
+        "text": "BJP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "text": "Delhi ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 80,
+        "text": "arvindkejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "bjp ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "text": "Arvind ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "text": "Kejriwal ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Savage ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": " 🤣",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "🤣🔥",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "🔥🔥 ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "#",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 92,
+        "text": "shorts",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "on ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "text": "Roasted ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 55,
+        "text": "Budget ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "text": "Question ",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-24T09:10:49.291097Z",
+    "updated_at": "2025-01-24T18:31:53.410314Z",
+    "lead_time": 174.591
+  }
+]
